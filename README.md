@@ -1,7 +1,7 @@
 dysf.utils
 ==========
 
-Custom dysfunctional utilities for node.js
+Custom dysfunctional utilities for node.js just for you !!!
 
 Usage
 =========
