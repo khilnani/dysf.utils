@@ -35,9 +35,12 @@ Installation
 Global
 --------- 
 - Run: <code>sudo npm install dysf.utils -g</code>
+- Usually installed at - /usr/local/lib/node_modules/dysf.utils
 
 Project
 ---------
 - Add <code>"dysf.utils": "x.x.x"</code> to the dependencies section of your project's package.json 
   - Example <code>"dependencies": { "dysf.utils": "x.x.x" }</code>
 - Run <code>npm install</code> in the director with your package.json
+- Usually installed at - PROJECT_DIR/node_modules/dysf.utils
+
