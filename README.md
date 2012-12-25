@@ -38,6 +38,6 @@ Global
 
 Project
 ---------
-- Add <code>"dysf.utils": "x.x.x"</code> to the dependencies section of your package.json 
+- Add <code>"dysf.utils": "x.x.x"</code> to the dependencies section of your project's package.json 
   - Example <code>"dependencies": { "dysf.utils": "x.x.x" }</code>
-- Run <code>npm install</code>
+- Run <code>npm install</code> in the director with your package.json
