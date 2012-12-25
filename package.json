@@ -1,0 +1,24 @@
+{
+  "name": "dysf.utils",
+  "description": "Custom dysfunctional utilities for node.js",
+  "version": "0.0.1",
+  "author": "dysf <info@dysf.co>",
+  "maintainers": [
+    "dysf <info@dysf.co>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dysf/dysf.utils.git"
+  },
+  "keywords": [
+    "logging",
+    "utilities",
+    "node.js"
+  ],
+  "dependencies": {
+  },
+  "main": "./lib/dysf.utils",
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
