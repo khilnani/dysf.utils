@@ -14,8 +14,8 @@ API
 ==========
 
 - logger
-  - logger.setLogLevel(id) - 0: error, 1: warn, 2: event, 3: info, 4: debug, 5: trace. Default is 3 (info)
-  - logger.system ( msg | obj) - Not impacted by log level, Always printed. Useful for system notifications.
+  - logger.setLogLevel(id) - 0: system, 1: error, 2: warn, 3: event, 4: info, 5: debug, 6: trace. Default is 4 (info)
+  - logger.system ( msg | obj) - Useful for system level notifications.
   - logger.error ( msg | obj)
   - logger.warn ( msg | obj)
   - logger.event ( msg | obj) - Recommended for key events like new tranactions / sessions / requests etc.
@@ -28,9 +28,11 @@ API
 
 - mock
   - mock.response (text)
+  
+
 
 Installation
-==========
+=======
 
 Global
 --------- 
