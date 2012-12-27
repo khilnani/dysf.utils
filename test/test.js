@@ -2,6 +2,10 @@
 
 var log = require("../lib/dysf.utils").logger;
 
+log.setLogLevel();
+log.setLogLevel(undefined);
+log.setLogLevel(null);
+log.setLogLevel("abcd");
 log.setLogLevel(5);
 
 log.system("system");
