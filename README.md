@@ -21,7 +21,7 @@ API
   - logger.event ( msg | obj) - Recommended for key events like new tranactions / sessions / requests etc.
   - logger.info ( msg | obj) - Recommended for notable phases within a transaction like handlers, methods etc.
   - logger.debug ( msg | obj) - Recommended for useful property values or callback tracking.
-  - logger.trace ( msg | obj) - Recommended for detail debugging obj object contents.
+  - logger.trace ( msg | obj) - Recommended for detailed debugging lie printing object contents.
 
 - utils
   - utils.renderFile (response, path, replaceParams, callback)
