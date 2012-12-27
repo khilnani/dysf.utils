@@ -16,7 +16,8 @@
     "node.js"
   ],
   "dependencies": {
-	  "callsite": "x.x.x"
+	"vows": "0.7.0",
+	"callsite": "x.x.x"
   },
   "main": "./lib/dysf.utils",
   "engines": {
