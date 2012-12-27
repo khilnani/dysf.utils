@@ -1,4 +1,4 @@
-dysf.utils [![Build Status](https://secure.travis-ci.org/dysf/dysf.utils.png)](http://travis-ci.org/dysf/dysf.utils)
+dysf.utils [![Build Status](https://travis-ci.org/dysf/dysf.utils.png?branch=master)](https://travis-ci.org/dysf/dysf.utils)
 ==========
 
 Custom dysfunctional utilities for node.js just for you !!!
