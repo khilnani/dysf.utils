@@ -25,5 +25,4 @@
   "scripts": {
 	"test": "vows --spec"
   }
-
 }
