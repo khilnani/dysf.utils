@@ -28,7 +28,7 @@ API
 
 - mock
   - mock.response ( text )
-  
+   
 
 
 Installation
