@@ -1,7 +1,7 @@
 {
   "name": "dysf.utils",
   "description": "Custom dysfunctional utilities for node.js",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": "dysf <info@dysf.co>",
   "maintainers": [
     "dysf <info@dysf.co>"
@@ -17,7 +17,7 @@
   ],
   "dependencies": {
 	"vows": "0.7.0",
-	"callsite": "x.x.x"
+	"callsite": "0.x.x"
   },
   "main": "./lib/dysf.utils",
   "engines": {
