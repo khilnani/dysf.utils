@@ -1,14 +1,14 @@
 {
   "name": "dysf.utils",
   "description": "Custom dysfunctional utilities for node.js",
-  "version": "0.0.8",
-  "author": "dysf <info@dysf.co>",
+  "version": "0.0.9",
+   "author": "Nik Khilnani <nik@khilnani.org>",
   "maintainers": [
-    "dysf <info@dysf.co>"
+    "Nik Khilnani <nik@khilnani.org>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dysf/dysf.utils.git"
+    "url": "https://github.com/khilnani/dysf.utils.git"
   },
   "keywords": [
     "logging",
