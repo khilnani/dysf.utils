@@ -1,3 +1,15 @@
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [dysf.utils [![Build Status](https://travis-ci.org/khilnani/dysf.utils.png?branch=master)](https://travis-ci.org/khilnani/dysf.utils)](#dysfutils-!build-statushttpstravis-ciorgkhilnanidysfutilspngbranch=masterhttpstravis-ciorgkhilnanidysfutils)
+- [Usage](#usage)
+- [API](#api)
+	- [logger](#logger)
+	- [utils](#utils)
+	- [mock](#mock)
+- [Installation](#installation)
+	- [Global](#global)
+	- [Project](#project)
+
 dysf.utils [![Build Status](https://travis-ci.org/khilnani/dysf.utils.png?branch=master)](https://travis-ci.org/khilnani/dysf.utils)
 ==========
 
