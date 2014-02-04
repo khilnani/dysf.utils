@@ -13,7 +13,7 @@ vows.describe('dysf.utils').addBatch({
 		log.setLogLevel(undefined);
 		log.setLogLevel(null);
 		log.setLogLevel("abcd");
-		log.setLogLevel(5);
+		log.setLogLevel(6);
 
       }
     }

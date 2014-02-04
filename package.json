@@ -1,7 +1,7 @@
 {
   "name": "dysf.utils",
   "description": "Custom dysfunctional utilities for node.js",
-  "version": "0.0.9",
+  "version": "0.1.0",
    "author": "Nik Khilnani <nik@khilnani.org>",
   "maintainers": [
     "Nik Khilnani <nik@khilnani.org>"
@@ -16,8 +16,9 @@
     "node.js"
   ],
   "dependencies": {
-	"vows": "0.7.0",
-	"callsite": "0.x.x"
+    "vows": "0.7.0",
+    "callsite": "0.x.x",
+    "chalk": "0.4.0"
   },
   "main": "./lib/dysf.utils",
   "engines": {
