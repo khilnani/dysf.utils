@@ -1,7 +1,7 @@
 {
   "name": "dysf.utils",
   "description": "Custom dysfunctional utilities for node.js",
-  "version": "0.1.0",
+  "version": "0.1.2",
    "author": "Nik Khilnani <nik@khilnani.org>",
   "maintainers": [
     "Nik Khilnani <nik@khilnani.org>"

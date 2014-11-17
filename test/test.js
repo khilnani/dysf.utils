@@ -29,6 +29,9 @@ vows.describe('dysf.utils').addBatch({
 		log.event("event");
 		log.info("info");
 		log.debug("debug");
+		log.debug( new Error('test') );
+		log.debug( new TypeError('test') );
+		log.debug( ['a','b','c'] );
 		log.trace("trace");
 		log.trace( { obj: "data"} );
 
