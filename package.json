@@ -2,7 +2,7 @@
   "name": "dysf.utils",
   "description": "Custom dysfunctional utilities for node.js",
   "version": "0.1.2",
-   "author": "Nik Khilnani <nik@khilnani.org>",
+  "author": "Nik Khilnani <nik@khilnani.org>",
   "maintainers": [
     "Nik Khilnani <nik@khilnani.org>"
   ],
@@ -16,15 +16,16 @@
     "node.js"
   ],
   "dependencies": {
-    "vows": "0.7.0",
     "callsite": "0.x.x",
-    "chalk": "0.4.0"
+    "chalk": "0.4.0",
+    "jasmine-core": "^2.1.2",
+    "vows": "0.7.0"
   },
   "main": "./lib/dysf.utils",
   "engines": {
     "node": ">= 0.8.0"
   },
   "scripts": {
-	"test": "vows --spec"
+    "test": "vows --spec"
   }
 }
